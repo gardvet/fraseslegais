@@ -1,0 +1,38 @@
+  body {
+    background: #db5936;
+    color: white;
+    text-align: center;
+  }
+  .quote-container {
+    width: 450px;
+    height: 190px;
+    background: #A1869E;
+    margin: 30px auto;
+    align-items: center;
+    font-size: 18px;
+  }
+  .container .main {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  #generate-btn {
+    color: white !important;
+    background: #1F2041;
+    border-color: #E8F0FF;
+    cursor: pointer;
+    font-size: 1.5rem;
+    padding: 0.5rem 1rem;
+  }
+  #generate-btn:hover {
+    background: #b09e99;
+    border-color: #b09e99;
+    color: #333333;
+  }
+  .author {
+    color: #1F2041;
+  }
+  footer {
+      position: absolute;
+      width: 100%;
+      bottom: 0;
+      font-size: 18px;
+  }
