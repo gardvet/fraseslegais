@@ -14,5 +14,5 @@
 <img src="./frases.gif">
 <h2> ♟ Objetivo</h2>
 <p>
-O objetivo é construir todo os dias durante 100 dias 01 projeto simples de front end usando somente HTML, CSS e Javascript. Assim posso consolidar o conhecimento e criar o meu portfólio. A intenção é sempre melhorar o que foi feito e futuramente adicionar novas tecnologias. Projeto 4 de 100.
+O objetivo é construir todo os dias durante 100 dias 01 projeto simples de front end usando somente HTML, CSS e Javascript. Assim posso consolidar o conhecimento e criar o meu portfólio. A intenção é sempre melhorar o que foi feito e futuramente adicionar novas tecnologias. Projeto 6 de 100.
 </p>
